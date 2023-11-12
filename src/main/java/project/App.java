@@ -1,10 +1,7 @@
 package project;
 
 import org.json.JSONObject;
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
     public static void main( String[] args )
